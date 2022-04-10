@@ -1,0 +1,94 @@
+{
+  "productList": [
+    {
+      "id": 1,
+      "img": "https://sun1-94.userapi.com/impg/3wVf7NZLP7AIgiNZqPG9tOE0KnhFHUQDnsGIDA/BbRHOeFfhkY.jpg?size=520x0&quality=95&sign=39fe90be8c222fa60e2f98cdbb80c588",
+      "name": "Худи розовый с фиолетовым",
+      "description": "Тёплый уютный худи в фирменных цветах VK. На груди — объемный лого VK. Крой оверсайз, размеры — унисекс.",
+      "price": 150,
+      "amount": 45,
+      "show": true,
+      "reservations": []
+    },
+    {
+      "id": 2,
+      "img": "https://sun1-22.userapi.com/impg/aC97KtLqUpyB9DqcNwMIxP2qOwVtswEVMgj-8g/ec6b_MZ0QoA.jpg?size=520x0&quality=95&sign=89d6783db7acbdd1209e539117e24a7b",
+      "name": "Свитшот «VK на века»",
+      "description": "Тёплый, уютный и мягкий свитшот в фирменных цветах VK. Материал: футер с начёсом. На груди объёмная вышивка \"VK на века\", на спине -- вышитый лого VK team. Крой оверсайз, размеры — унисекс.",
+      "price": 150,
+      "amount": 25,
+      "show": true,
+      "reservations": []
+    },
+    {
+      "id": 3,
+      "img": "https://sun1-47.userapi.com/impg/BbCkSpRrzfKCLflvkyDF1hm1ngbAgxy4KJJXDw/P-Rk7Gpfwqc.jpg?size=520x0&quality=95&sign=6845726ecf9f3d4d594876067d8e50d0",
+      "name": "Капсула мини",
+      "description": "Совершенная и миниатюрная: узнавайте полезное вместе с Марусей, звоните и пишите друзьям ВКонтакте, слушайте музыку и включайте фильмы голосом",
+      "price": 280,
+      "amount": 10,
+      "show": true,
+      "reservations": []
+    },
+    {
+      "id": 4,
+      "img": "https://sun1-83.userapi.com/impg/0tbuJ6rzQf9QjeSrugXpGyqVArTRPi1a494gvw/FNnfWLN9FLw.jpg?size=520x0&quality=95&sign=0ecb5e6b1a3646aeabbb69bcc92a2187",
+      "name": "Ревью резюме",
+      "description": "Двадцати минутная сессия с командой VK: поможем с составлением СV и расскажем о работе в IT",
+      "price": 80,
+      "amount": 100,
+      "show": true,
+      "reservations": []
+    },
+    {
+      "id": 5,
+      "img": "https://sun1-94.userapi.com/impg/2giOlWCJMPAy3MSAafc26NZe6JOF14zWxiGB1Q/by-Sg1-e0wY.jpg?size=520x0&quality=95&sign=b9b7466362d62023376922919aa06b31",
+      "name": "Подписка VK Combo",
+      "description": "VK Combo — это подписка на музыку, кино, суперсилу, а ещё скидки на доставку еды и покупки",
+      "price": 190,
+      "amount": 15,
+      "show": true,
+      "reservations": []
+    },
+    {
+      "id": 6,
+      "img": "https://sun1-17.userapi.com/impg/00kgZsxcpeyhtKP30lD6XpWcqWaPVu8gjG-y2w/lAOrUWcDFFc.jpg?size=520x0&quality=95&sign=b7c2185ccfc3d7b71909747a4d7a8d95",
+      "name": "Игрушка Сеня",
+      "description": "Плюшевая игрушка «Сеня».",
+      "price": 110,
+      "amount": 10,
+      "show": true,
+      "reservations": []
+    },
+    {
+      "id": 7,
+      "img": "https://sun1-55.userapi.com/impg/FQGYJ2ue9l6DBoHj0iQYd_ujO5g1kvoeZH-uFw/YRhcWgOGWb8.jpg?size=520x0&quality=95&sign=c9ddd466f6a84acca6c1f4506a11bb50",
+      "name": "Значки металлические",
+      "description": "Металлический значок с лого VK и фирменным паттерном.",
+      "price": 30,
+      "amount": 30,
+      "show": true,
+      "reservations": []
+    },
+    {
+      "id": 8,
+      "img": "https://sun1-20.userapi.com/impg/06orhMQHSOsrMX0y-if9-tY2Y0JHCah2Nr6sDA/UC1A4eqZ93s.jpg?size=520x0&quality=95&sign=8a5a7e00d591d9df871a14ae0c48133f",
+      "name": "Свитшот vk.com",
+      "description": "Уютный свитшот унисекс на любой случай жизни. Мягкий футер с начесом.",
+      "price": 100,
+      "amount": 4,
+      "show": false,
+      "reservations": []
+    },
+    {
+      "id": 9,
+      "img": "https://sun1-47.userapi.com/impg/apPq-cNA9G-javP387eLi56aw7d5xeO6tmemdg/wKGgwRmJOzY.jpg?size=520x0&quality=95&sign=72cd36dcf3846c6a94e8c2a4895c59b1",
+      "name": "Внешний аккумулятор",
+      "description": "Внешний аккумулятор с лого ВКонтакте и поддержкой беспроводной зарядки. Модель: Xiaomi (Mi) SOLOVE Wireless Charger 10000 mAh.",
+      "price": 200,
+      "amount": 4,
+      "show": true,
+      "reservations": []
+    }
+  ]
+}
