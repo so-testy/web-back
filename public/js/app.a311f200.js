@@ -1592,7 +1592,7 @@
           ge = (0, S.p7)({ history: (0, S.r5)(), routes: he });
         var ke = ge;
         j(),
-          (r().defaults.baseURL = "http://194.58.120.99:3000"),
+          (r().defaults.baseURL = "http://localhost:3000"),
           (0, s.ri)(B).use(ke).use($).use(V).mount("#app");
       },
     },
